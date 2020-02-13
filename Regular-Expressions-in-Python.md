@@ -8,7 +8,7 @@
 
 
 
-[此筆記有目錄版連結](https://hackmd.io/wsQCQpiPS9e4kc1e_S0-Gw?both)
+[此筆記有目錄版HackMD連結](https://hackmd.io/wsQCQpiPS9e4kc1e_S0-Gw?both)
 
 Resource:[Regular Expressions in Python](https://www.datacamp.com/courses/regular-expressions-in-python)
 ## string manipulation
