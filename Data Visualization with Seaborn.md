@@ -3,6 +3,26 @@
 
 [TOC]
 
+Table of contents
+=================
+
+<!--ts-->
+   * [histogram](#histogram)
+   * [Table of contents](#table-of-contents)
+   * [Installation](#installation)
+   * [Usage](#usage)
+      * [STDIN](#stdin)
+      * [Local files](#local-files)
+      * [Remote files](#remote-files)
+      * [Multiple files](#multiple-files)
+      * [Combo](#combo)
+      * [Auto insert and update TOC](#auto-insert-and-update-toc)
+      * [GitHub token](#github-token)
+   * [Tests](#tests)
+   * [Dependency](#dependency)
+<!--te-->
+
+
 [此筆記Hackmd連結(有目錄)](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
 
 資料來源:
