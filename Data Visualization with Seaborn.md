@@ -5,6 +5,11 @@
 
 [此筆記Hackmd連結(有目錄)](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
 
+資料來源:
+1. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
+2. [Intermediate Data Visualization with Seaborn
+](https://www.datacamp.com/courses/data-visualization-with-seaborn)
+
 ## cheat sheet
 {%pdf https://datacamp-community-prod.s3.amazonaws.com/f9f06e72-519a-4722-9912-b5de742dbac4 %}
 
