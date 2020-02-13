@@ -8,22 +8,18 @@ Table of contents
 
 <!--ts-->
    * [histogram](#histogram)
-   * [Table of contents](#table-of-contents)
-   * [Installation](#installation)
-   * [Usage](#usage)
-      * [STDIN](#stdin)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-      * [Auto insert and update TOC](#auto-insert-and-update-toc)
-      * [GitHub token](#github-token)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
+   * [regression plots](#regression plot)
+   * [style](#style)
+   * [custimized with matplot](#custimized with matplot)
+      * [matplotlib axes](#matplotlib axes)
+      * [combining plot](#combining plot)
+   * [categorical plot types](#categorical plot types)
+   * [Matrix plot](#Matrix plot)
+   * [facetgrid](#facetgrid)
 <!--te-->
 
 
-[此筆記Hackmd連結(有目錄)](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
+[此筆記Hackmd連結](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
 
 資料來源:
 1. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
