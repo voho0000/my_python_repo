@@ -3,7 +3,7 @@
 
 [TOC]
 
-[此筆記Hackmd連結(有目錄版)](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
+[有目錄版HackMD筆記](https://hackmd.io/SwgrGQ5dRF-Ar-v8cQ52-A?both)
 
 資料來源:
 1. [Introduction to Data Visualization with Seaborn](https://www.datacamp.com/courses/introduction-to-seaborn)
