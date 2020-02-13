@@ -3,6 +3,8 @@
 
 [TOC]
 
+[有目錄版Hackmd筆記](https://hackmd.io/ZO_16879TDGUlCvkR4Pc7w?both)
+
 ![](https://i.imgur.com/2RgnVm1.png)
 ## definition
 - Course goals
