@@ -22,22 +22,22 @@ pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 # 工具
 ## 路徑相關
 ### os.path
-
-返回文件名
+```python
+#返回文件名
 os.path.basename(path)
 
-返回文件路徑
+#返回文件路徑
 os.path.dirname(path)
 
-把路徑分割成dirname和basename
+#把路徑分割成dirname和basename
 os.path.split(path)
 
-取得所有檔案與子目錄名稱
+#取得所有檔案與子目錄名稱
 os.listdir(path)
 
-取得絕對路徑
+#取得絕對路徑
 os.path.abspath('.') 
-
+```
 ### glob
 選取特定檔名+路徑
 ```python
