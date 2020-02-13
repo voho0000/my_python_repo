@@ -17,7 +17,7 @@ pip install jupyter_contrib_nbextensions && jupyter contrib nbextension install
 ```
 ## anaconda/miniconda
 ### 環境設置
-[環境設置(Linux)](https://hackmd.io/L6K0gaxxTZa2AQW7CMi66g)此篇最前面的環境設置篇
+請至此篇筆記[環境設置(Linux)](https://hackmd.io/L6K0gaxxTZa2AQW7CMi66g)
 
 # 工具
 ## 路徑相關
